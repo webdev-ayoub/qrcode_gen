@@ -1,0 +1,2 @@
+start npm_run
+start flask_run
